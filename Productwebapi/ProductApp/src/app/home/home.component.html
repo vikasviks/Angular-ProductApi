@@ -1,0 +1,21 @@
+<br>
+<div class="container">
+    <div>
+        <h2 class="h2">Home</h2>
+        <hr>
+    </div>
+    <br><br>
+    <div class="row">
+        
+        <div class="col-md-6">
+            <div class="container">
+                <app-list-product-with-subscribe [myproducts$]='products$'></app-list-product-with-subscribe>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="container">
+                <app-list-product-with-async [myproducts$]='products$'></app-list-product-with-async>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,401 @@
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.exe
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.deps.json
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.json
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.dev.json
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.pdb
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csprojAssemblyReference.cache
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfoInputs.cache
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfo.cs
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CoreCompileInputs.cache
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.Manifest.cache
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.xml
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductAPI.styles.css
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.RazorTargetAssemblyInfo.cache
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CopyComplete
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.dll
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.pdb
+C:\C-Sharp (API)\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.genruntimeconfig.cache
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.exe
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.deps.json
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.json
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.pdb
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfo.cs
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.Manifest.cache
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.xml
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductAPI.styles.css
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.RazorTargetAssemblyInfo.cache
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CopyComplete
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.pdb
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\API\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.genruntimeconfig.cache
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.exe
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.deps.json
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.json
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.dev.json
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.pdb
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfoInputs.cache
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfo.cs
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CoreCompileInputs.cache
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.Manifest.cache
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.xml
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductAPI.styles.css
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.RazorTargetAssemblyInfo.cache
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CopyComplete
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.pdb
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.genruntimeconfig.cache
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\product api and angular app RS\Product Demo\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csprojAssemblyReference.cache

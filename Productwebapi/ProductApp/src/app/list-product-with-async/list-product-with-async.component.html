@@ -1,0 +1,31 @@
+<h4>
+    List of Product with Async
+</h4>
+<br>
+<table class='table table-sm'>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Color</th>
+            <th>ExpiryDate</th>
+            <th>InStock</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let p of myproducts$ | async">
+            <td>{{p.id}}</td>
+            <td>{{p.title}}</td>
+            <td>{{p.price | currency:['INR']}}</td>
+            <td>{{p.quantity}}</td>
+            <td>{{p.color}}</td>
+            <td>{{p.expiryDate | date}}</td>
+            <td>
+                <i class="bi bi-check-circle-fill" *ngIf="p.inStock"></i>
+                <i class="bi bi-x-circle" *ngIf="!p.inStock"></i>
+            </td>
+        </tr>
+    </tbody>
+</table>
