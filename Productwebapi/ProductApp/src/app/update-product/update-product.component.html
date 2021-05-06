@@ -1,0 +1,85 @@
+<br>
+<div class="container" style="align-content: center;">
+    <form (ngSubmit)='Update()' [formGroup]='UpdateForm' novalidate class="form">
+
+        <label for="Id">Id</label>
+
+        <input type="number" formControlName='id' class="form-control" id="id" placeholder="Enter Id ">
+
+        <div class="alert alert-danger"
+            *ngIf="UpdateForm?.get('id')?.hasError('required') && UpdateForm?.get('id')?.touched">
+            price is Required
+        </div>
+
+<br>
+        <label for="Title">Title</label>
+
+        <input type="text" formControlName='title' class="form-control" id="Title" placeholder="Enter Title ">
+
+        <div class="alert alert-danger"
+            *ngIf="UpdateForm?.get('title')?.hasError('required') && UpdateForm?.get('title')?.touched">
+            Title is Required
+        </div>
+<br>
+        <label for="Quantity">Quantity</label>
+
+        <input type="number" formControlName='Quantity' class="form-control" id="Quantity"
+            placeholder="Enter Quantity ">
+
+        <div class="alert alert-danger"
+            *ngIf="UpdateForm?.get('Quantity')?.hasError('required') && UpdateForm?.get('Quantity')?.touched">
+            Quantity is Required
+        </div>
+<br>
+        <label for="Quantity">Price</label>
+
+        <input type="number" formControlName='Price' class="form-control" id="Price" placeholder="Enter Price ">
+
+        <div class="alert alert-danger"
+            *ngIf="UpdateForm?.get('Price')?.hasError('required') && UpdateForm?.get('Price')?.touched">
+            price is Required
+        </div>
+
+        <label for="Color">Color</label>
+        <input type="text" formControlName='color' class="form-control" id="Color" placeholder="Enter Color">
+
+        <div class="alert alert-danger"
+            *ngIf="UpdateForm?.get('color')?.hasError('required') && UpdateForm?.get('color')?.touched">
+            Color is Required
+        </div>
+
+<br>
+        <label for="expiryDate">ExpiryDate</label>
+        <input type="text" formControlName='expiryDate' class="form-control" id="ExpiryDate"
+            placeholder="Enter ExpiryDate">
+
+        <div class="alert alert-danger"
+            *ngIf="UpdateForm?.get('expiryDate')?.hasError('required') && UpdateForm?.get('expiryDate')?.touched">
+            ExpiryDate is Required
+        </div>
+<br>
+        <label for="isInstock">InStock:</label><br>
+        <div class="form-check form-check-inline">
+
+            <input class="form-check-input" formControlName="isInstock" type="radio" [value]="true">
+            <label class="form-check-label" for="inlineRadio1">In Stock</label>
+        </div>
+        <div class="form-check form-check-inline">
+
+            <input class="form-check-input" formControlName="isInstock" type="radio" [value]="false">
+            <label class="form-check-label" for="inlineRadio1">Out of Stock</label>
+        </div>
+
+        <br>
+        <br>
+        <div>
+            <div>
+                <button [disabled]='UpdateForm.invalid' class="btn btn-primary">Update</button>
+        
+                <button type="reset" class="btn btn-danger">Reset</button>
+            </div>
+        </div>
+
+
+    </form>
+</div>

@@ -1,48 +1,74 @@
 <br>
-<div class="container">
-    <div>
-        <h5 class="heading">Add a Product</h5>
-        <hr>
+<div class="container" style="align-content: center;">
+    <form (ngSubmit)='submit()' [formGroup]='AddProductForm' novalidate class="form">
+        <label for="Title">Title</label>
+
+        <input type="text" formControlName='title' class="form-control" id="Title" placeholder="Enter Title ">
+
+        <div class="alert alert-danger"
+        *ngIf="AddProductForm?.get('title')?.hasError('required') && AddProductForm?.get('title')?.touched">
+        Title is Required
     </div>
-    <form [formGroup]="addform" (ngSubmit)="submit()">
+<br>
+        <label for="Quantity">Quantity</label>
 
-        <div class="input-group mb-3">
-            <!-- <label>Title:</label> -->
-            <input type="text" formControlName="title" class="form-control" placeholder="Enter Title">
+        <input type="number" formControlName='Quantity' class="form-control" id="Quantity"
+            placeholder="Enter Quantity ">
+
+            <div class="alert alert-danger"
+            *ngIf="AddProductForm?.get('Quantity')?.hasError('required') && AddProductForm?.get('Quantity')?.touched">
+            Quantity is Required
         </div>
+<br>
+        <label for="Quantity">Price</label>
 
-        <div class="input-group mb-3">
-            <input type="number" formControlName="price" class="form-control" placeholder="Enter Price ₹">
+        <input type="number" formControlName='Price' class="form-control" id="Price"
+            placeholder="Enter Price ₹">
+
+            <div class="alert alert-danger"
+            *ngIf="AddProductForm?.get('Price')?.hasError('required') && AddProductForm?.get('Price')?.touched">
+            price is Required
         </div>
+<br>
+        <label for="Color">Color</label>
+        <input type="text" formControlName='color' class="form-control" id="Color" placeholder="Enter Color">
 
-        <div class="input-group mb-3">
-            <input type="number" formControlName="quantity" class="form-control" placeholder="Enter Quantity">
+        <div class="alert alert-danger"
+            *ngIf="AddProductForm?.get('color')?.hasError('required') && AddProductForm?.get('color')?.touched">
+            Color is Required
         </div>
+<br>
+        <label for="expiryDate">ExpiryDate</label>
+        <input type="text" formControlName='expiryDate' class="form-control" id="ExpiryDate"
+            placeholder="Enter ExpiryDate in DD-MM-YYYY">
 
-        <div class="input-group mb-3">
-            <input type="text" formControlName="color" class="form-control" placeholder="Enter Color">
+            <div class="alert alert-danger"
+            *ngIf="AddProductForm?.get('expDate')?.hasError('required') && AddProductForm?.get('expDate')?.touched">
+            ExpiryDate is Required
         </div>
-
-        <div class="input-group mb-3">
-            <input type="text" formControlName="expirydate" class="form-control" placeholder="Enter Expiry Date in DD-MM-YYYY">
-        </div>
-
-        <label>InStock:</label><br>
+<br>
+        <label for="inStock">InStock:</label><br>
         <div class="form-check form-check-inline">
-            <input class="form-check-input" formControlName="instock" type="radio" [value]="true">
+
+            <input class="form-check-input" formControlName="inStock" type="radio" [value]="true">
             <label class="form-check-label" for="inlineRadio1">In Stock</label>
         </div>
         <div class="form-check form-check-inline">
-            <input class="form-check-input" formControlName="instock" type="radio" [value]="false">
-            <label class="form-check-label" for="inlineRadio2">Out of Stock</label>
+
+            <input class="form-check-input" formControlName="inStock" type="radio" [value]="false">
+            <label class="form-check-label" for="inlineRadio1">Out of Stock</label>
         </div>
 
-        <br><br>
-        <div class="btn-group mr-4">
-            <button type="submit" [disabled]="addform.invalid" class="btn btn-success">Add</button>
+        <br>
+        <br>
+        <div>
+            <div class="row">
+                <button [disabled]='AddProductForm.invalid' class="btn btn-primary">Add</button>
+            
+                <button type="reset" class="btn btn-danger">Reset</button>
+            </div>
         </div>
-        <div class="btn-group mr-4">
-            <button type="reset" class="btn btn-danger">Reset</button>
-        </div>
+
+
     </form>
 </div>

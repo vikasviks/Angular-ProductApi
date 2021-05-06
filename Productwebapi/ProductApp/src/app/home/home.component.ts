@@ -1,7 +1,8 @@
 import { Component, OnInit } from '@angular/core';
-import { Observable } from 'rxjs';
+import { observable, Observable } from 'rxjs';
+import { switchMap } from 'rxjs/operators';
 import { AppService } from '../app.service';
-import { IProduct } from '../IProduct';
+import { Product } from '../product';
 
 @Component({
   selector: 'app-home',
@@ -9,12 +10,15 @@ import { IProduct } from '../IProduct';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent implements OnInit {
-  
-  products$: Observable<IProduct[]>
-  constructor(private myservice: AppService) { 
-    this.products$ = new Observable<IProduct[]>();
+
+  task: any="";
+  product$:Observable<Product[]>;
+  constructor(private appservice:AppService){
+    this.product$=new Observable();
   }
+
   ngOnInit(): void {
-   this.products$ = this.myservice.getProducts(); 
+    this.product$=this.appservice.getProducts();
   }
+  
 }

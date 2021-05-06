@@ -1,0 +1,27 @@
+<br>
+<br>
+<div class="container" style="align-content: center;">
+    <form (ngSubmit)='Delete()' [formGroup]='DeleteForm' novalidate class="form">
+
+        <label for="Id" style="font-size: large;">Id</label>
+
+        <input type="number" formControlName='id' class="form-control" id="id" placeholder="Enter Id of Product to delete It ">
+
+        <div class="alert alert-danger"
+            *ngIf="DeleteForm?.get('id')?.hasError('required') && DeleteForm?.get('id')?.touched">
+            ID is Required
+        </div>
+
+        <br>
+        <div>
+            <div style="float: left;">
+                <button [disabled]='DeleteForm.invalid' class="btn btn-primary">Delete</button>
+            </div>
+            <div style="float: right;">
+                <button type="reset" class="btn btn-danger mb-2">Reset</button>
+            </div>
+        </div>
+
+
+    </form>
+</div>

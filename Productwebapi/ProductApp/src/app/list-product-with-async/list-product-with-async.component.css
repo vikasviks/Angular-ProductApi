@@ -1,0 +1,24 @@
+body {
+  font-family: 'sans-serif';
+}
+
+table {
+  border-radius: 0.25em;
+  margin: auto ;
+}
+
+th {
+  border-bottom: 1px solid black;
+  font-size: 18px;
+  text-align: center;
+}
+
+td {
+  padding: 0.65em ;
+  font-size: 16px;
+}
+
+tr:nth-child(even){
+  background-color: #f2f2f2;
+}
+

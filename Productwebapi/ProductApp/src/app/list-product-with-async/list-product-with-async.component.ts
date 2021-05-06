@@ -1,17 +1,23 @@
-import { ChangeDetectionStrategy, Component, Input, OnInit } from '@angular/core';
-import { Observable } from 'rxjs';
-import { IProduct } from '../IProduct';
+import { ChangeDetectionStrategy, Component, Input, OnDestroy, OnInit } from '@angular/core';
+import { observable, Observable, Subscription } from 'rxjs';
+import { AppService } from '../app.service';
+import { Product } from '../product';
 
 @Component({
   selector: 'app-list-product-with-async',
   templateUrl: './list-product-with-async.component.html',
   styleUrls: ['./list-product-with-async.component.css'],
-  changeDetection: ChangeDetectionStrategy.OnPush
+  changeDetection:ChangeDetectionStrategy.OnPush
 })
 export class ListProductWithAsyncComponent implements OnInit {
-  @Input() myproducts$: Observable<IProduct[]>;
-  constructor() { }
+@Input() myProduct$: Observable<Product[]>;
+constructor(){
 
-  ngOnInit(): void {
-  }
 }
+ngOnInit():void{
+
+}
+
+}
+
+

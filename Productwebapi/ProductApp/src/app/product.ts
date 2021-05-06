@@ -1,6 +1,6 @@
-export interface IProduct{
+export interface Product{
     id:number,
-    title:string,
+    title: string,
     price:number,
     quantity:number,
     color:string,
