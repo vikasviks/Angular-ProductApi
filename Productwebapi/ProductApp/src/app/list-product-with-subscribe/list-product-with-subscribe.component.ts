@@ -10,7 +10,7 @@ import { Product } from '../product';
   changeDetection:ChangeDetectionStrategy.OnPush
 })
 export class ListProductWithSubscribeComponent implements OnInit {
-  title = 'apiconsumedemo';
+  title = 'Product Api';
   @Input() myProduct$:Observable<Product[]>;
   products: Product[]=[];
   productssubscription: Subscription;

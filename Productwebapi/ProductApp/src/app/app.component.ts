@@ -12,22 +12,22 @@ export class AppComponent implements OnInit, OnDestroy {
 
   @Input() myProduct$:Observable<Product[]>;
   
-  title = 'apiconsumedemo';
+  title = 'Product Api';
   products: Product[]=[];
   productssubscription: Subscription;
+
   constructor(private appservice: AppService,private cd:ChangeDetectorRef){
     this.productssubscription= new Subscription();
     this.myProduct$= new Observable();
   }
 
-  
   ngOnInit(){
     this.productssubscription= this.appservice.getProducts().subscribe(
       data=>{this.products= data},
       error=>{
         console.log(error);
       },
-      ()=>console.log('complete')
+      // ()=>console.log('complete')
       
     )
 
