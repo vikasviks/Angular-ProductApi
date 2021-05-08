@@ -1,0 +1,9 @@
+.mat-elevation th{
+  font-size: medium;
+  font-weight: bold;
+  align-items: center;
+}
+
+.mat-elevation td{
+  align-items: center;
+}

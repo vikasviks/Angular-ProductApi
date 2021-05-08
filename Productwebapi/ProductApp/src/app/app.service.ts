@@ -12,52 +12,58 @@ import {Product} from './product';
 export class AppService {
 
   constructor(private http:HttpClient) { }
-  private myerrorhandler(err: any){
-    console.log(err);
-    return throwError(err);
+
+  getProducts():Observable<Product[]>{
+
+    const apiurl= environment.apibaseurl + "Products/";
+    const headers={'content-type': 'application/json'};
+
+    return this.http.get<Product[]>(apiurl,{'headers': headers}).pipe(
+      tap(data=>{}),
+      catchError(error=>{
+        return throwError(error)
+      })
+    );
   }
-  getProducts(): Observable<Product[]>{
-    const apiurl = environment.apibaseurl + 'Products';
-    const headers = {'content-type':'application/json'};
-    return this.http.get<Product[]>(apiurl,{'headers':headers}).pipe(
-      //tap(data=>console.log(data)), // only to see data in see console what is coming
-      catchError(
-        //error => {return throwError(error);}
-        error => this.myerrorhandler(error)
+
+  addProductRecord(task:Product):Observable<any>{
+    const apiurl= environment.apibaseurl + "Products/";
+    const headers={'content-type': 'application/json'};
+    Object.defineProperty(task,'id',{'enumerable':false});
+    const dataToAdd=JSON.stringify(task);
+    console.log(dataToAdd);
+    return this.http.post<any>(apiurl, dataToAdd,{'headers':headers}).pipe(
+      tap((task:any)=>{
+        console.log(task)
+      }),
+      catchError(this.handleError)
+    )
+  }
+
+  getProduct(id:number): Observable<Product>{
+    const apiurl= environment.apibaseurl + "Products/" +id;
+    const headers={'content-type': 'application/json'};
+    return this.http.get<Product>(apiurl,{'headers': headers}).pipe(
+      catchError(this.handleError)
       )
-    );
-  }
-  getProduct(id : number): Observable<Product>{
-    const apiurl = environment.apibaseurl + 'Products/' + id;
-    const headers = {'content-type':'application/json'};
-    return this.http.get<Product>(apiurl,{'headers':headers}).pipe(
-      catchError( error => this.myerrorhandler(error) )
-    );
-  }
-
-  //for adding a product
-  postProduct(product: Product): Observable<Product> {
-    Object.defineProperty(product, 'id',{'enumerable':false}); // so that id won't go to api
-    const apiurl = environment.apibaseurl + 'Products';
-    const headers = {'accept':'application/json','content-type':'application/json'};
-    return this.http.post<Product>(apiurl, product, {'headers':headers}).pipe(
-      catchError( error => this.myerrorhandler(error) )
-    );
-  }
-
-  //for Edit/Update product
-  putProduct(product: Product): Observable<Product> {
-    const apiurl = environment.apibaseurl + 'Products/'+ product.id;
-    const headers = {'accept':'application/json','content-type':'application/json'};
-    return this.http.put<Product>(apiurl, product,{'headers':headers}).pipe(
-      catchError( error => this.myerrorhandler(error) )
-    );
   }
 
 
-//for delete a product
+  updateRecord(task:Product):Observable<any>{
+    const apiurl= environment.apibaseurl + "Products/"+task.id;
+    const headers={'content-type': 'application/json'};
+    const dataToAdd=JSON.stringify(task);
+    console.log(dataToAdd);
+    return this.http.put<any>(apiurl, dataToAdd,{'headers':headers}).pipe(
+      tap((task:any)=>{
+        console.log(task)
+      }),
+      catchError(this.handleError)
+    )
+  }
+
   DeleteRecord(task:number):Observable<any>{
-    const apiurl= environment.apibaseurl +'Products/'+ task;
+    const apiurl= environment.apibaseurl + "Products/"+task;
     const headers={'content-type': 'application/json'};
     const dataToAdd=JSON.stringify(task);
     console.log(dataToAdd);
@@ -65,7 +71,12 @@ export class AppService {
       tap((task:any)=>{
         console.log(task)
       }),
-      // catchError(this.handleError)
-      )
-    }
+      catchError(this.handleError)
+    )
+  }
+
+  private handleError(error:any){
+    console.error(error);
+    return throwError(error);
+  }
 }

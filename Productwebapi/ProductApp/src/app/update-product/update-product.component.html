@@ -1,85 +1,79 @@
-<br>
-<div class="container" style="align-content: center;">
-    <form (ngSubmit)='Update()' [formGroup]='UpdateForm' novalidate class="form">
+<!-- <br> -->
+<h1 style="text-align: center; font-size: 2.5em; margin-top: 30px;">Update Product!!</h1>
+
+<div class="container" style="align-content: center; max-width: 500px;">
+
+    <form (ngSubmit)='Update()' [formGroup]='UpdateForm'  novalidate class="form">
 
         <label for="Id">Id</label>
 
-        <input type="number" formControlName='id' class="form-control" id="id" placeholder="Enter Id ">
+        <input type="number" formControlName='id' class="form-control" id="id" placeholder="Enter Id " readonly>
 
-        <div class="alert alert-danger"
-            *ngIf="UpdateForm?.get('id')?.hasError('required') && UpdateForm?.get('id')?.touched">
-            price is Required
-        </div>
+        <!-- <div class="alert alert-danger" *ngIf="UpdateForm?.get('id')?.hasError('required') && UpdateForm?.get('id')?.touched">
+            Id is Required
+        </div> -->
 
-<br>
-        <label for="Title">Title</label>
+        <label for="title">Title</label>
 
         <input type="text" formControlName='title' class="form-control" id="Title" placeholder="Enter Title ">
 
-        <div class="alert alert-danger"
-            *ngIf="UpdateForm?.get('title')?.hasError('required') && UpdateForm?.get('title')?.touched">
+        <div class="alert alert-danger" *ngIf="UpdateForm?.get('title')?.hasError('required') && UpdateForm?.get('title')?.touched">
             Title is Required
         </div>
 <br>
-        <label for="Quantity">Quantity</label>
+        <label for="quantity">Quantity</label>
 
-        <input type="number" formControlName='Quantity' class="form-control" id="Quantity"
+        <input type="number" formControlName='quantity' class="form-control" id="Quantity"
             placeholder="Enter Quantity ">
 
         <div class="alert alert-danger"
-            *ngIf="UpdateForm?.get('Quantity')?.hasError('required') && UpdateForm?.get('Quantity')?.touched">
+            *ngIf="UpdateForm?.get('quantity')?.hasError('required') && UpdateForm?.get('quantity')?.touched">
             Quantity is Required
         </div>
 <br>
-        <label for="Quantity">Price</label>
+        <label for="price">Price</label>
 
-        <input type="number" formControlName='Price' class="form-control" id="Price" placeholder="Enter Price ">
+        <input type="number" formControlName='price' class="form-control" id="Price" placeholder="Enter Price in ₹">
 
-        <div class="alert alert-danger"
-            *ngIf="UpdateForm?.get('Price')?.hasError('required') && UpdateForm?.get('Price')?.touched">
+        <div class="alert alert-danger"*ngIf="UpdateForm?.get('price')?.hasError('required') && UpdateForm?.get('price')?.touched">
             price is Required
         </div>
-
-        <label for="Color">Color</label>
+<br>
+        <label for="color">Color</label>
         <input type="text" formControlName='color' class="form-control" id="Color" placeholder="Enter Color">
 
-        <div class="alert alert-danger"
-            *ngIf="UpdateForm?.get('color')?.hasError('required') && UpdateForm?.get('color')?.touched">
+        <div class="alert alert-danger" *ngIf="UpdateForm?.get('color')?.hasError('required') && UpdateForm?.get('color')?.touched">
             Color is Required
         </div>
 
 <br>
         <label for="expiryDate">ExpiryDate</label>
-        <input type="text" formControlName='expiryDate' class="form-control" id="ExpiryDate"
-            placeholder="Enter ExpiryDate">
+        <input type="text" formControlName='expiryDate' class="form-control" id="ExpiryDate" placeholder="Enter ExpiryDate in DD-MM-YYYY">
 
-        <div class="alert alert-danger"
-            *ngIf="UpdateForm?.get('expiryDate')?.hasError('required') && UpdateForm?.get('expiryDate')?.touched">
+        <div class="alert alert-danger" *ngIf="UpdateForm?.get('expiryDate')?.hasError('required') && UpdateForm?.get('expiryDate')?.touched">
             ExpiryDate is Required
         </div>
 <br>
-        <label for="isInstock">InStock:</label><br>
+        <label for="inStock">InStock:</label><br>
         <div class="form-check form-check-inline">
 
-            <input class="form-check-input" formControlName="isInstock" type="radio" [value]="true">
+            <input class="form-check-input" formControlName="inStock" type="radio" [value]="true">
             <label class="form-check-label" for="inlineRadio1">In Stock</label>
         </div>
         <div class="form-check form-check-inline">
 
-            <input class="form-check-input" formControlName="isInstock" type="radio" [value]="false">
+            <input class="form-check-input" formControlName="inStock" type="radio" [value]="false">
             <label class="form-check-label" for="inlineRadio1">Out of Stock</label>
         </div>
 
-        <br>
-        <br>
         <div>
+            <br>
             <div>
-                <button [disabled]='UpdateForm.invalid' class="btn btn-primary">Update</button>
-        
-                <button type="reset" class="btn btn-danger">Reset</button>
+                <button  class="btn btn-primary" >Update</button>
+                <button type="reset" class="btn btn-danger" style="margin-left:10px;">Reset</button>
             </div>
         </div>
-
-
     </form>
+
 </div>
+

@@ -1,20 +1,8 @@
-a:hover {
-    background-color: rgb(255, 255, 255);
-    color: black;
+mat-sidenav-container {
+  height: 100%;
   }
 
-  mat-sidenav-container {
-    height: 100%;
-  }
-
-  mat-sidenav-container mat-sidenav mat-nav-list .chevron-button {
-    transition: 300ms ease-in-out;
-    transform: rotate(0deg);
-    right: 0;
-    float: right;
-    position: absolute;
-  }
-
-  mat-sidenav-container mat-sidenav mat-nav-list .chevron-button.rotated {
-    transform: rotate(180deg);
-  }
+  a:hover {
+      background-color: rgb(255, 255, 255);
+      color: black;
+    }

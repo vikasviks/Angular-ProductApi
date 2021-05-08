@@ -11,7 +11,7 @@ import { Product } from '../product';
 })
 export class HomeComponent implements OnInit {
 
-  task: any="";
+  showTable:number=1;
   product$:Observable<Product[]>;
   constructor(private appservice:AppService){
     this.product$=new Observable();

@@ -1,10 +1,49 @@
 <br>
+<div style="margin-left: 650px; margin-top: 30px;"><span>
+    <h1>This is Home </h1>
+</span></div>
+
+<div style="justify-content: center; margin-bottom: 10px;" class="nav nav-tabs">
+    <button class="nav-link btn-info" type="button" (click)='showTable = 1;' style="margin-right: 15px;;">List Using Async</button>
+    <button class="nav-link btn-info" type="button" (click)='showTable = 2;' style="margin-right: 15px;">List using Subscribe</button>
+    <button class="nav-link btn-info" type="button" (click)='showTable = 3;' style="margin-right: 15px;">List using Angular Mat-table </button>
+</div>
+
+<br>
+<!-- <h2 style=";">Click on Product's Title for More Options </h2> -->
+<div style="text-align: center; margin-top: 30px;"><span>
+    <h3>Click on Product's title for More Options </h3>
+</span></div>
 
 <div class="row">
-   <div class="col-md-6">
-    <app-list-product-with-subscribe [myProduct$]='product$'></app-list-product-with-subscribe>
-   </div>
-  <div class="col-md-6">
+    <br>
+    <ng-container *ngIf="showTable==1; then htmlTable "></ng-container>
+    <ng-template #htmlTable>
+
     <app-list-product-with-async [myProduct$]='product$'></app-list-product-with-async>
-   </div>
- </div>
+
+    </ng-template>
+
+    <ng-container *ngIf="showTable==2; then angularTable"></ng-container>
+    <ng-template #angularTable>
+
+    <app-list-product-with-subscribe [myProduct$]='product$'></app-list-product-with-subscribe>
+
+    </ng-template>
+
+    <ng-container *ngIf="showTable==3; then matTable"></ng-container>
+    <ng-template #matTable>
+
+    <app-using-mattable [myProduct$]='product$'></app-using-mattable>
+
+    </ng-template>
+</div>
+
+<div class="container">
+    <br>
+    <br>
+    <footer style="text-align: center;"><h3>Name : Vikas Kumar</h3>
+        <h4>Designation : ASET</h4>
+        <h4>Company : Taazaa</h4>
+        <hr></footer>
+</div>

@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
-import { Router } from '@angular/router';
+import { ActivatedRoute, Router } from '@angular/router';
 import { AppService } from '../app.service';
 import { Product } from '../product';
 
@@ -12,29 +12,45 @@ import { Product } from '../product';
 export class UpdateProductComponent implements OnInit {
 
   UpdateForm:FormGroup;
-  constructor(private fb:FormBuilder,private myservice:AppService, private router:Router) {
+  productToUpdate : any;
+
+  constructor(private fb:FormBuilder,private myservice:AppService, private router:Router,private route:ActivatedRoute ) {
     this.UpdateForm= this.fb.group({
       id : [null,[Validators.required,]],
       title : ['',[Validators.required]],
-      Price : [null,[Validators.required,]],
-      Quantity : [null,[Validators.required]],
+      price : [null,[Validators.required,]],
+      quantity : [null,[Validators.required]],
       color : [null,[Validators.required]],
-      isInstock : [true,[Validators.required]],
-      expiryDate: ['',[Validators.required,]],
-      
+      inStock : [true,[Validators.required]],
+      expiryDate: [null,[Validators.required,]],
     })
+
+    this.productToUpdate = this.route.snapshot.paramMap.get('id');
+    console.log(this.productToUpdate)
    }
 
   ngOnInit(): void {
+    this.myservice.getProduct(this.productToUpdate).subscribe(
+      data => {
+        console.log(data);
+        this.UpdateForm.get('title')?.setValue(data.title);
+        this.UpdateForm.get('price')?.setValue(data.price);
+        this.UpdateForm.get('quantity')?.setValue(data.quantity);
+        this.UpdateForm.get('color')?.setValue(data.color);
+        this.UpdateForm.get('expiryDate')?.setValue(data.expiryDate);
+        this.UpdateForm.get('inStock')?.setValue(data.inStock);
+      }
+    );
   }
-  
   Update(){
     let recordToUpdate:Product={
       ...this.UpdateForm.value
     };
+    recordToUpdate.id=parseInt(this.productToUpdate);
         console.log(recordToUpdate);
-    this.myservice.putProduct(recordToUpdate).subscribe();
+    this.myservice.updateRecord(recordToUpdate).subscribe();
     this.router.navigate(['/Home']);
+
     console.log("Record successfully Updated");
 
   }

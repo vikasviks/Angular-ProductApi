@@ -7,22 +7,22 @@ import { AppService } from '../app.service';
 import { Product } from '../product';
 
 @Component({
-  selector: 'app-add-product',
-  templateUrl: './add-product.component.html',
-  styleUrls: ['./add-product.component.css']
+  selector: 'app-app-product',
+  templateUrl: './app-product.component.html',
+  styleUrls: ['./app-product.component.css']
 })
 export class AppProductComponent implements OnInit {
   AddProductForm:FormGroup;
-  
+
   constructor(private fb:FormBuilder,private myservice:AppService, private router:Router){
     this.AddProductForm= this.fb.group({        
       title : ['',[Validators.required]],
-      Price : [null,[Validators.required,]],
-      Quantity : [null,[Validators.required]],
+      price : [null,[Validators.required,]],
+      quantity : [null,[Validators.required]],
       color : ['',[Validators.required]],
-      inStock : [true,[Validators.required]],
       expiryDate: ['',[Validators.required,]],
-    });   
+      inStock : [true,[Validators.required]],
+    });
   }
 
   ngOnInit(): void {
@@ -35,9 +35,10 @@ export class AppProductComponent implements OnInit {
     };
     recordToAdd.id=0;
     console.log(recordToAdd);
-    this.myservice.postProduct(recordToAdd).subscribe();
+    this.myservice.addProductRecord(recordToAdd).subscribe();
     this.router.navigate(['/Home']);
-    console.log("Record Added  successfully");
+    console.log("Record successfully Added");
+      
     }
   }
   

@@ -1,26 +1,28 @@
-<!-- <h1>hello world!></h1> -->
-<mat-toolbar style="background-color:blueviolet;" >
+<br>
+
+<mat-toolbar style="background-color:blueviolet" >
   <mat-toolbar-row style="color: white;">
+    
     <button mat-icon-button>
       <mat-icon (click)="sidenav.toggle()">menu</mat-icon>
     </button>
    
+    <span class="menu-spacer"></span>
     <div>
       <a mat-button [routerLink]="'/Home'" style="font-size: medium;"> Home </a>
     </div>
   
   </mat-toolbar-row>
- 
 </mat-toolbar>
-<mat-sidenav-container autosize ><mat-sidenav #sidenav mode="side">
 
+<mat-sidenav-container autosize ><mat-sidenav #sidenav mode="side">
+  
   <mat-nav-list>
-    <a mat-list-item [routerLink]="'/Home'"> Home </a>
     <a mat-list-item [routerLink]="'/AddProduct'"> Add Product </a>
     <a mat-list-item [routerLink]="'/Update'"> Update Product </a>
-    <a mat-list-item [routerLink]="'/Delete'">Delete Product</a>
+    <a mat-list-item [routerLink]="'/Delete'">Delete Product</a> 
   </mat-nav-list>
 
 </mat-sidenav>
-
+  
 <router-outlet></router-outlet>

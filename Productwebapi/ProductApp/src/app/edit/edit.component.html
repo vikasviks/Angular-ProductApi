@@ -1,0 +1,38 @@
+<!-- need to refresh it -->
+<br>
+<h1 style="text-align: center;">Product</h1>
+<br>
+<table class="text-center" style="width: 75%; margin:auto; ">
+    <thead>
+      <tr>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Price</th>
+        <th>Quantity</th>
+        <th>Color</th>
+        <th>Expiry Date</th>
+        <th>InStock</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>{{products.id}}</td>
+        <td>{{products.title}}</td>
+        <td>{{products.price| currency:'INR'}}</td>
+        <td>{{products.quantity}}</td>
+        <td>{{products.color}}</td>
+        <td>{{products.expiryDate | date}}</td>
+        <td>{{products.inStock}}</td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+  <br>
+  
+  <div class="container" style="align-content: center;">
+
+      <button [routerLink]="['/Update',TargetId]" class="btn btn-success" >Update</button>
+      <button  [routerLink]="['/Delete',TargetId]"  class="btn btn-danger" style="margin-left: 15px;" >Delete</button>
+  
+    
+</div>

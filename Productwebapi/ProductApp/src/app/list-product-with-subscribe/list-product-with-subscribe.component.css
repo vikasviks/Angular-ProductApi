@@ -1,8 +1,10 @@
 body {
   font-family: 'sans-serif';
+  align-items: center;
 }
 
 table {
+  align-content: center;
   border-radius: 0.25em;
   margin:auto;
 }
